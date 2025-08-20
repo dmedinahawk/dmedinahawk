@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dmedinahawk
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Product Management
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on projects related to infrastructure
 - 📫 How to reach me dmedina8@hawk.iit.edu
