@@ -2,7 +2,7 @@
 - 👀 I’m interested in Product Management
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on projects related to infrastructure
-- 📫 How to reach me dmedina8@hawk.iit.edu
+- 📫 How to reach me dmedina8@hawk.illinoistech.edu
 - 😄 Pronouns:SHE/HER
 - ⚡ Fun fact: I've done stand-up comedy before
 
