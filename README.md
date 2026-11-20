@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @dmedinahawk
-- 👀 I’m interested in Product Management
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on projects related to infrastructure
-- 📫 How to reach me dmedina8@hawk.illinoistech.edu
-- 😄 Pronouns:SHE/HER
-- ⚡ Fun fact: I've done stand-up comedy before
+# Hi, I'm @dmedinahawk
 
-<!---
-dmedinahawk/dmedinahawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science graduate from Illinois Institute of Technology pursuing **Product Management, AI Product, and Product Analyst** roles. I bring a technical foundation and experience in website development, user research, client requirements, and launching digital experiences. I enjoy turning user needs into clear product decisions and useful software.
+
+## Selected work
+
+### Fondue — multiplayer social gaming MVP
+A React and Vite application backed by Supabase, PostgreSQL, and Realtime. Players can create or join a room, gather in a lobby, complete bingo-style challenges, and see live activity.
+
+**Product lens:** Make it easy for a group to start and play a shared social game.
+
+### Tenant Management Portal
+A Python and PostgreSQL final project developed with Amass.
+
+### Fintech Spending Tracker
+A prototype combining spending data analysis with user-focused features.
+
+## Skills
+
+- **Product and delivery:** User research, requirements gathering, client collaboration, website development, digital experience launches
+- **Data:** Spending data analysis, PostgreSQL
+- **Development:** JavaScript, React, Vite, Python, Supabase, Realtime
+
+## Areas of interest
+
+Product discovery, AI product development, and data-informed product decisions.
